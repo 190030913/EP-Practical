@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students_info>
+	<student sid="a">
+		<regno>170042</regno>
+		<name>priya</name>
+		<avg>91</avg>
+		<dob>1-01-1998</dob>
+		<time>05:30am</time>
+		<mobileno>9123567912</mobileno>
+		<distinction>YES</distinction>
+	</student>
+
+	<student sid='b'>
+		<regno>170031</regno>
+		<name>jyothi</name>
+		<avg>90</avg>
+		<dob>2-07-1998</dob>
+		<time>07:00am</time>
+		<mobileno>9123567912</mobileno>
+		<distinction>YES</distinction>
+	</student>
+
+	<student sid='c'>
+
+		<regno>170456</regno>
+		<name>likitha</name>
+		<avg>93</avg>
+		<dob>11-04-19992</dob>
+		<time>01:50pm</time>
+		<mobileno>9123567912</mobileno>
+		<distinction>YES</distinction>
+	</student>
+
+	<student sid='d'>
+		<regno>170712</regno>
+		<name>preethi</name>
+		<avg>97</avg>
+		<dob>02-04-1999</dob>
+		<time>10:30am</time>
+		<mobileno>"9123567912"</mobileno>
+		<distinction>YES</distinction>
+	</student>
+
+	<student sid='e'>
+		<regno>170506</regno>
+		<name>Jahnavi</name>
+		<avg>94</avg>
+		<dob>11-04-1999</dob>
+		<time>12:00pm</time>
+		<mobileno>"9123567912"</mobileno>
+		<distinction>YES</distinction>
+	</student>
+</students_info> 
